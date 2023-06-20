@@ -131,7 +131,7 @@ margin:5px 0px 10px;
 	cursor:pointer;
 }
 
-.view:hover { color:#f7cc1e; }
+.view:hover { color:blue; }
 
 .heading{
 background:url(../img/headingBg.png) no-repeat center top;
@@ -154,13 +154,15 @@ margin:15px auto 0px 10px;
 .boxHolder{
 float:left;
 width:300px;
-background:url(../img/boxHolder.jpg) no-repeat bottom center;
+/*background:url(../img/boxHolder.jpg) no-repeat bottom center;*/
+background:#b8f8ff no-repeat bottom center;
 padding-bottom:5px;
 margin:0px 10px;
 }
 
 .boxContent{
-background:url(../img/boxContent.jpg) repeat-y top center;
+/*background:url(../img/boxContent.jpg) repeat-y top center;*/
+background:#b8f8ff repeat-y top center;
 padding:0px 0px 10px;
 height:300px;
 }
